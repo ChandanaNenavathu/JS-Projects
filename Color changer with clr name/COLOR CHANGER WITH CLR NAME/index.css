@@ -1,0 +1,29 @@
+body {
+   background-color: rgb(209, 209, 31); 
+}
+.div-class {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 28px;
+}
+.btn-div {
+    margin-top: 5%;
+    margin-left: 36%;
+    font-size: 45px;
+    padding: 10px;
+}
+.btn-1 {
+    background-color: red;
+}
+.btn-2 {
+    background-color: blue;
+}
+.btn-3 {
+    background-color: green;
+}
+.btn-4 {
+    background-color: orange;
+}
+.btn-5 {
+    background-color: yellow;
+}
